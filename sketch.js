@@ -2,7 +2,7 @@ let wheel
  let scl
 
 function preload(){
-wheel = loadModel("assettes\wheel.stl");
+wheel = loadModel("assettes\wheel45.obj");
 
   
 }
